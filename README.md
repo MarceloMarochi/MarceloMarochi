@@ -8,7 +8,7 @@ Soy Marcelo Marochi, desarrollador full stack y estudiante en Ingeniería en Sis
 - 👯 Estoy buscando colaborar en proyectos como desarrollador Full Stack o Frontend.
 
 ## Tecnologías
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg  https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg
 
 ## Contacto
 
