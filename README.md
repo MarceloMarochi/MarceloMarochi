@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**MarceloMarochi/MarceloMarochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Marcelo Marochi, desarrollador full stack y estudiante en Ingeniería en Sistemas de Información.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Actualmente estoy aprendiendo NodeJs.
+- 👯 Estoy buscando colaborar en proyectos como desarrollador Full Stack o Frontend.
+
+## Tecnologías
+(https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)(https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+
+## Contacto
+
+- marce.marochi@gmail.com
+- (https://www.linkedin.com/in/marcelomarochi/)
+
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MarceloMarochi&show_icons=true&theme=radical)
