@@ -22,7 +22,6 @@ Soy Marcelo Marochi, desarrollador full stack y estudiante en Ingeniería en Sis
 ## Contacto
 
 - marce.marochi@gmail.com
-- (https://www.linkedin.com/in/marcelomarochi/)
 
 ## Estadísticas de GitHub
 
