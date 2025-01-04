@@ -1,8 +1,8 @@
 # ¡Hola! / Hi! 👋
 
-Soy Marcelo Marochi, desarrollador full stack y estudiante en Ingeniería en Sistemas de Información. 
+Soy desarrollador full stack y estudiante en Ingeniería en Sistemas de Información en la Facultad Reginal Córdoba, Universidad Tecnológica Nacional. Gracias por pasarte!
 
-I'm an Information Systems Engineering student at the Córdoba Regional Faculty, National Technological University. Thanks for stopping by!
+I'm an full stack developer and Information Systems Engineering student at the Córdoba Regional Faculty, National Technological University. Thanks for stopping by!
 
 ## Sobre mí
 
