@@ -1,6 +1,8 @@
-# ¡Hola! 👋
+# ¡Hola! / Hi! 👋
 
-Soy Marcelo Marochi, desarrollador full stack y estudiante en Ingeniería en Sistemas de Información.
+Soy Marcelo Marochi, desarrollador full stack y estudiante en Ingeniería en Sistemas de Información. 
+
+I'm an Information Systems Engineering student at the Córdoba Regional Faculty, National Technological University. Thanks for stopping by!
 
 ## Sobre mí
 
