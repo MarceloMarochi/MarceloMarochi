@@ -7,13 +7,11 @@ I'm an full stack developer and Information Systems Engineering student at the C
 ## Sobre mí / About me
 
 🌱 Actualmente estoy aprendiendo NodeJs.
+\n👯 Estoy buscando colaborar en proyectos como desarrollador Full Stack o Frontend.
 
-👯 Estoy buscando colaborar en proyectos como desarrollador Full Stack o Frontend.
-
-
-🌱 I'm currently learning Node.js.
-
-👯 I'm looking to collaborate on projects as a Full Stack or Frontend Developer.
+\n
+\n🌱 I'm currently learning Node.js.
+\n👯 I'm looking to collaborate on projects as a Full Stack or Frontend Developer.
 
 ## Tecnologías / Technologies
 <p>
