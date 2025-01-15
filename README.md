@@ -4,12 +4,15 @@ Soy desarrollador full stack y estudiante en Ingeniería en Sistemas de Informac
 
 I'm an full stack developer and Information Systems Engineering student at the Córdoba Regional Faculty, National Technological University. Thanks for stopping by!
 
-## Sobre mí
+## Sobre mí / About me
 
 - 🌱 Actualmente estoy aprendiendo NodeJs.
 - 👯 Estoy buscando colaborar en proyectos como desarrollador Full Stack o Frontend.
 
-## Tecnologías
+- 🌱 I'm currently learning Node.js.
+- 👯 I'm looking to collaborate on projects as a Full Stack or Frontend Developer.
+
+## Tecnologías / Technologies
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
@@ -26,10 +29,10 @@ I'm an full stack developer and Information Systems Engineering student at the C
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="42" height="42" /></a>
 </p>
 
-## Contacto
+## Contacto / Contact
 
 - marce.marochi@gmail.com
 
-## Estadísticas de GitHub
+## Estadísticas de GitHub / GitHub Stats
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MarceloMarochi&show_icons=true&theme=radical)
