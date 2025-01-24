@@ -27,6 +27,10 @@ I'm an full stack developer and Information Systems Engineering student at the C
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="42" height="42" /></a>
 </p>
 
+## Portfolio
+
+- https://marcelomarochi.vercel.app/
+
 ## Contacto / Contact
 
 - marce.marochi@gmail.com
