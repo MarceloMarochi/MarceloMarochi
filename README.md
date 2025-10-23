@@ -4,11 +4,6 @@ Soy desarrollador full stack y estudiante en Ingeniería en Sistemas de Informac
 
 I'm an full stack developer and Information Systems Engineering student at the Córdoba Regional Faculty, National Technological University. Thanks for stopping by!
 
-## Sobre mí / About me
-
-👯 Estoy buscando colaborar en proyectos como desarrollador Full Stack o Frontend.
-
-👯 I'm looking to collaborate on projects as a Full Stack or Frontend Developer.
 
 ## Tecnologías / Technologies
 <p>
@@ -34,7 +29,3 @@ I'm an full stack developer and Information Systems Engineering student at the C
 ## Contacto / Contact
 
 - marce.marochi@gmail.com
-
-## Estadísticas de GitHub / GitHub Stats
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MarceloMarochi&show_icons=true&theme=radical)
